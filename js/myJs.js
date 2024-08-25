@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "He luu bé",
-  text2: "20/10 ấm áp nhé",
-  text3: "Bé có muốn nhận quà hăm ._.",
-  text4: "Nhớ suy nghĩ kĩ rồi chọn nhé :v",
+  text1: "Heloooo bé",
+  text2: "Có này muốn nói bé nèee=))",
+  text3: "Bé có muốn nhận quà hongg ._.",
+  text4: "Nhớ nghĩ kĩ rồi chọn nheee :v",
   text5: "Có",
   text6: "Kó",
   text7: "Viết gì đó về ngày hôm nay đi ( 10 kí tự )",
   text8: "Gửi",
-  text9: "Hôm nay tiêng deptrai quá",
-  text10: "Tiêng biết mà ^^",
+  text9: "Mtuyen deptrai vô cùng tận ạaaa",
+  text10: "Òaaa anh biết mò =))))",
   text11:
     "Cảm ơn bé vì đã thành thật =))",
-  text12: "Okii nhận quà thôi <3",
+  text12: "nhận quà thôi <3",
 };
 
 $(document).ready(function () {
@@ -35,7 +35,7 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "img/embe.JPG",
+      imageUrl: "img/8.jpg",
       imageWidth: 300,
       imageHeight: 300,
       background: '#fff url("img/iput-bg.jpg")',
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.youtube.com/shorts/-24mDMxvjys";
+            window.location = "https://www.youtube.com/watch?v=cahQIMWHMk4";
           },
         });
       }
